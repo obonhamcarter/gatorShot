@@ -11,6 +11,8 @@ Due to the COVID-19 pandemic, Allegheny College transitioned to online-only inst
 
   1. From the directory where you have ```myIndex.html```,
   run ```python3 -m http.server``` and then point your browser to: ```http://127.0.0.1:8000/```
+Note: If you forget the command, run the `sh` script file to run the Python server! Use, $`. gimmeAserver.sh` to engage the local server. Naturally, if this is hosted on a website then you will need this command.
+
 
   2. Run myIndex.html in a local server.
 
