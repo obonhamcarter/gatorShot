@@ -21,3 +21,13 @@ Note: If you forget the command, run the `sh` script file to run the Python serv
   4. Say cheese, congratulations to you, and smile.
 
   5. Go get 'em
+
+#### Docker
+
+##### Build it
+
+`docker build -t gatorshot .`
+
+##### Run it
+
+`docker run -p 8000:8000 gatorshot`
